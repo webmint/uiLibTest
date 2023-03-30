@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webmint/uiLibTest"
+    "url": "https://github.com/webmint/ui-lib-test"
   },
-  "name": "uiLibTest",
+  "name": "ui-lib-test",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
