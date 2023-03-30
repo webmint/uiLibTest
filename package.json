@@ -12,14 +12,14 @@
   },
   "types": "./dist/types/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@peshanghiwa"
+    "registry": "https://npm.pkg.github.com/@webmint"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peshanghiwa/uiLibTest"
+    "url": "https://github.com/webmint/uiLibTest"
   },
   "name": "ui-lib-test",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
