@@ -19,7 +19,6 @@
     "url": "https://github.com/webmint/uiLibTest"
   },
   "name": "ui-lib-test",
-  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
