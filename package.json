@@ -19,7 +19,7 @@
     "url": "https://github.com/webmint/ui-lib-test"
   },
   "name": "@webmint/ui-lib-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
