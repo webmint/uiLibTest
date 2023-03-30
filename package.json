@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/webmint/ui-lib-test"
   },
-  "name": "ui-lib-test",
+  "name": "@webmint/ui-lib-test",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
