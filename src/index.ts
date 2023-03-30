@@ -1,2 +1,2 @@
-export { default as UIButton } from "./components/UIButton.vue";
-export { default as UIInput } from "./components/UIInput.vue";
+export { default as UIBurtton } from "./components/UIBurtton.vue";
+export { default as UIIrput } from "./components/UIIrput.vue";
